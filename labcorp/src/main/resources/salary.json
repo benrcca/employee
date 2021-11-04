@@ -1,0 +1,92 @@
+[
+   {
+      "firstName":"FullTime1",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   },
+   {
+      "firstName":"FullTime2",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   },
+   {
+      "firstName":"FullTime3",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   },
+   {
+      "firstName":"FullTime4",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   },
+   {
+      "firstName":"FullTime5",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   },
+   {
+      "firstName":"FullTime6",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   },
+   {
+      "firstName":"FullTime7",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   },
+   {
+      "firstName":"FullTime8",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   },
+   {
+      "firstName":"FullTime9",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   },
+   {
+      "firstName":"FullTime10",
+      "lastName":null,
+      "phoneNumber":null,
+      "workDays":0,
+      "vacationDays":0,
+      "salaryType":"Salary",
+      "title":"Full time employee"
+   }
+]
